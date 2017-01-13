@@ -5,12 +5,14 @@
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "262302620AEB8CA1ACFDC1E3E9663E85D6FDD2D8" : 9223372036854775807,
-    "253940EFFD57AA0C844632FA47CFF566158B5D5C" : 9223372036854775807
+    "253940EFFD57AA0C844632FA47CFF566158B5D5C" : 9223372036854775807,
+    "942298B9B4489A8B164BFD5A00D7D82DEB83C7F2" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8E3D1053-1279-4B1F-B7F5-87A6CE27AC12",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "262302620AEB8CA1ACFDC1E3E9663E85D6FDD2D8" : "Community\/",
-    "253940EFFD57AA0C844632FA47CFF566158B5D5C" : "PilotPlant\/"
+    "253940EFFD57AA0C844632FA47CFF566158B5D5C" : "PilotPlant\/",
+    "942298B9B4489A8B164BFD5A00D7D82DEB83C7F2" : "PilotPlantCatalog\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Community",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -25,6 +27,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/GeekInTheClass\/Community.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "262302620AEB8CA1ACFDC1E3E9663E85D6FDD2D8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CodersHigh\/PilotPlantCatalog.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "942298B9B4489A8B164BFD5A00D7D82DEB83C7F2"
     }
   ]
 }

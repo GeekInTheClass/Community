@@ -7,15 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D0035D41E2778490071A00F /* CHContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0035C51E2778490071A00F /* CHContentViewController.swift */; };
+		8D0035D51E2778490071A00F /* CHControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0035C61E2778490071A00F /* CHControls.swift */; };
+		8D0035D61E2778490071A00F /* CHModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0035C71E2778490071A00F /* CHModalViewController.swift */; };
+		8D0035D71E2778490071A00F /* CHPagingScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0035C81E2778490071A00F /* CHPagingScrollViewController.swift */; };
+		8D0035D81E2778490071A00F /* CHPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0035C91E2778490071A00F /* CHPickerViewController.swift */; };
+		8D0035D91E2778490071A00F /* DrawingCanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0035CA1E2778490071A00F /* DrawingCanvasView.swift */; };
+		8D0035DA1E2778490071A00F /* FIlters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0035CB1E2778490071A00F /* FIlters.swift */; };
+		8D0035DB1E2778490071A00F /* NavigationControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0035CC1E2778490071A00F /* NavigationControllers.swift */; };
+		8D0035DC1E2778490071A00F /* RecordButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0035CD1E2778490071A00F /* RecordButton.swift */; };
+		8D0035DD1E2778490071A00F /* UIViewController+Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D0035CE1E2778490071A00F /* UIViewController+Navigation.swift */; };
 		8D1262C61E1F5D5C0029262A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D1262C51E1F5D5C0029262A /* AppDelegate.swift */; };
 		8D1262C81E1F5D5C0029262A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D1262C71E1F5D5C0029262A /* ViewController.swift */; };
 		8D1262CB1E1F5D5C0029262A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D1262C91E1F5D5C0029262A /* Main.storyboard */; };
 		8D1262CD1E1F5D5C0029262A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D1262CC1E1F5D5C0029262A /* Assets.xcassets */; };
 		8D1262D01E1F5D5C0029262A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D1262CE1E1F5D5C0029262A /* LaunchScreen.storyboard */; };
-		8D1262DC1E1F6D630029262A /* UIViewController+Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D1262DB1E1F6D630029262A /* UIViewController+Navigation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D0035C51E2778490071A00F /* CHContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHContentViewController.swift; sourceTree = "<group>"; };
+		8D0035C61E2778490071A00F /* CHControls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHControls.swift; sourceTree = "<group>"; };
+		8D0035C71E2778490071A00F /* CHModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHModalViewController.swift; sourceTree = "<group>"; };
+		8D0035C81E2778490071A00F /* CHPagingScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHPagingScrollViewController.swift; sourceTree = "<group>"; };
+		8D0035C91E2778490071A00F /* CHPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CHPickerViewController.swift; sourceTree = "<group>"; };
+		8D0035CA1E2778490071A00F /* DrawingCanvasView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingCanvasView.swift; sourceTree = "<group>"; };
+		8D0035CB1E2778490071A00F /* FIlters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FIlters.swift; sourceTree = "<group>"; };
+		8D0035CC1E2778490071A00F /* NavigationControllers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationControllers.swift; sourceTree = "<group>"; };
+		8D0035CD1E2778490071A00F /* RecordButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordButton.swift; sourceTree = "<group>"; };
+		8D0035CE1E2778490071A00F /* UIViewController+Navigation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Navigation.swift"; sourceTree = "<group>"; };
 		8D1262C21E1F5D5C0029262A /* Community.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Community.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D1262C51E1F5D5C0029262A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D1262C71E1F5D5C0029262A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -23,7 +42,6 @@
 		8D1262CC1E1F5D5C0029262A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D1262CF1E1F5D5C0029262A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D1262D11E1F5D5C0029262A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8D1262DB1E1F6D630029262A /* UIViewController+Navigation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIViewController+Navigation.swift"; path = "../../PilotPlant/Sources/UIViewController+Navigation.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,11 +55,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8D0035BF1E2778490071A00F /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				8D0035C51E2778490071A00F /* CHContentViewController.swift */,
+				8D0035C61E2778490071A00F /* CHControls.swift */,
+				8D0035C71E2778490071A00F /* CHModalViewController.swift */,
+				8D0035C81E2778490071A00F /* CHPagingScrollViewController.swift */,
+				8D0035C91E2778490071A00F /* CHPickerViewController.swift */,
+				8D0035CA1E2778490071A00F /* DrawingCanvasView.swift */,
+				8D0035CB1E2778490071A00F /* FIlters.swift */,
+				8D0035CC1E2778490071A00F /* NavigationControllers.swift */,
+				8D0035CD1E2778490071A00F /* RecordButton.swift */,
+				8D0035CE1E2778490071A00F /* UIViewController+Navigation.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
 		8D1262B91E1F5D5B0029262A = {
 			isa = PBXGroup;
 			children = (
 				8D1262C41E1F5D5C0029262A /* Community */,
 				8D1262C31E1F5D5C0029262A /* Products */,
+				8D0035BF1E2778490071A00F /* Sources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,7 +94,6 @@
 			children = (
 				8D1262C51E1F5D5C0029262A /* AppDelegate.swift */,
 				8D1262C71E1F5D5C0029262A /* ViewController.swift */,
-				8D1262DB1E1F6D630029262A /* UIViewController+Navigation.swift */,
 				8D1262C91E1F5D5C0029262A /* Main.storyboard */,
 				8D1262CC1E1F5D5C0029262A /* Assets.xcassets */,
 				8D1262CE1E1F5D5C0029262A /* LaunchScreen.storyboard */,
@@ -139,9 +174,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8D1262DC1E1F6D630029262A /* UIViewController+Navigation.swift in Sources */,
+				8D0035D81E2778490071A00F /* CHPickerViewController.swift in Sources */,
+				8D0035DA1E2778490071A00F /* FIlters.swift in Sources */,
+				8D0035D51E2778490071A00F /* CHControls.swift in Sources */,
 				8D1262C81E1F5D5C0029262A /* ViewController.swift in Sources */,
+				8D0035D71E2778490071A00F /* CHPagingScrollViewController.swift in Sources */,
+				8D0035D41E2778490071A00F /* CHContentViewController.swift in Sources */,
 				8D1262C61E1F5D5C0029262A /* AppDelegate.swift in Sources */,
+				8D0035DC1E2778490071A00F /* RecordButton.swift in Sources */,
+				8D0035DD1E2778490071A00F /* UIViewController+Navigation.swift in Sources */,
+				8D0035DB1E2778490071A00F /* NavigationControllers.swift in Sources */,
+				8D0035D61E2778490071A00F /* CHModalViewController.swift in Sources */,
+				8D0035D91E2778490071A00F /* DrawingCanvasView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,6 +347,7 @@
 				8D1262D61E1F5D5C0029262A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
